@@ -19,6 +19,6 @@ Rules to contribute to techinside.pk website repo:
 Techinside is maintained by Intellecta.co Pty Ltd.
 
 We love open source software!
-We are [available for hire][hire].
+Get in touch with us [here][contact].
 
-[hire]: https://intellecta.co/contact?utm_source=github
+[contact]: https://intellecta.co/contact?utm_source=github
