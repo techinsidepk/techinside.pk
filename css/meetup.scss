@@ -1,0 +1,68 @@
+.meetup_area {
+	max-width: 800px;
+    margin: 0 auto;
+    font-family: Lato, sans-serif;
+    .meetup {
+    	padding-bottom: 80px;
+    	text-align: left;
+    	h1 {
+	    	color: rgba(255, 201, 91, 0.69);
+		    font-size: 38px;
+		    border-bottom: 1px solid #2D3A42;
+		    border-top: 1px solid #2D3A42;
+		    padding: 50px 0;
+		    font-weight: 400;
+	    	text-align: center;
+	    	font-family: "museo", serif;
+	    }
+	    .meetup_content {
+	    	h2 {
+	    		font-style: normal;
+	    		color: #D45959;
+		    	font-size: 21px;
+		    	text-transform: capitalize;
+		    	letter-spacing: 0.04em;
+		    	margin-bottom: 0;
+	    	}
+	    	p {
+	    		font-size: 14px;
+	    		font-weight: 400;
+	    		line-height: 18px;
+	    		a{
+	    			font-size: 15px;
+				    font-weight: 700;
+				    font-family: "museo", serif;
+				    text-transform: capitalize;
+				    color: #62B1DD;
+	    		}
+	    	}
+	    	.overview_list {
+	    		ul {
+	    			li {
+	    				font-size: 14px;
+			    		font-weight: 400;
+			    		line-height: 18px;
+			    		color: #496B7F;
+	    				i {
+	    					font-size: 6px;
+	    					margin-right: 8px;
+	    					font-weight: 900;
+	    				}
+	    				a {
+	    					font-size: 14px;
+				    		font-weight: 400;
+				    		line-height: 18px;
+				    		color: #496B7F;
+	    				}
+	    			}
+	    		}
+	    	}
+	    }
+    }
+}
+
+@media (max-width: 920px) {
+	.meetup {
+		padding: 0 20px 40px;
+	}
+}
