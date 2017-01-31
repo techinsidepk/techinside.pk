@@ -10,7 +10,7 @@ Rules to contribute to techinside.pk website repo:
 4. Never change code directly without creating a fork and pull request!!!!
 
 
-
+Meetup: https://github.com/techinsidepk/techinside.pk/wiki
 
 
 
