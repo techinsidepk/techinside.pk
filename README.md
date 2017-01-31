@@ -12,9 +12,7 @@ Rules to contribute to techinside.pk website repo:
 
 
 
-## About intellecta.co
 
-![intellecta](https://intellecta.co/assets/intellecta-main.svg)
 
 Techinside is maintained by Intellecta.co Pty Ltd.
 
